@@ -20,10 +20,11 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/hashicorp/consul/api v1.8.1
 	github.com/hashicorp/golang-lru v0.5.4
+	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/json-iterator/go v1.1.11
 	github.com/klauspost/compress v1.13.1
 	github.com/lucas-clemente/quic-go v0.21.1
-	github.com/megaease/easemesh-api v1.0.0
+	github.com/megaease/easemesh-api v1.1.0
 	github.com/megaease/grace v1.0.0
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/nacos-group/nacos-sdk-go v1.0.8
