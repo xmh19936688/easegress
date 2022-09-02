@@ -1,0 +1,1 @@
+CGO_ENABLED=0 dlv debug --headless --listen=:2345 --api-version=2 --accept-multiclient ./cmd/server/ -- -f server.yaml --initial-object-config-files controller.yaml --initial-cluster go-env=http://localhost:2380

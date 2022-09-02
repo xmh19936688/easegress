@@ -1,0 +1,11 @@
+kind: IngressController
+name: easegress-ingress-congroller
+namespaces:
+  - default
+ingressClass: easegress
+httpServer:
+  port: 8080
+  https: false
+  keepAlive: true
+  keepAliveTimeout: 60s
+  maxConnections: 10240
