@@ -50,8 +50,8 @@ require (
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
 	github.com/xeipuuv/gojsonschema v1.2.1-0.20201027075954-b076d39a02e5
 	github.com/yl2chen/cidranger v1.0.2
-	go.etcd.io/etcd/api/v3 v3.5.4
-	go.etcd.io/etcd/client/v3 v3.5.4
+	go.etcd.io/etcd/api/v3 v3.5.7
+	go.etcd.io/etcd/client/v3 v3.5.7
 	go.etcd.io/etcd/server/v3 v3.5.4
 	go.uber.org/zap v1.23.0
 	golang.org/x/crypto v0.0.0-20220826181053-bd7e27e6170d
@@ -214,7 +214,7 @@ require (
 	github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2 // indirect
 	github.com/xlab/treeprint v0.0.0-20181112141820-a009c3971eca // indirect
 	go.etcd.io/bbolt v1.3.6 // indirect
-	go.etcd.io/etcd/client/pkg/v3 v3.5.4 // indirect
+	go.etcd.io/etcd/client/pkg/v3 v3.5.7 // indirect
 	go.etcd.io/etcd/client/v2 v2.305.4 // indirect
 	go.etcd.io/etcd/pkg/v3 v3.5.4 // indirect
 	go.etcd.io/etcd/raft/v3 v3.5.4 // indirect
